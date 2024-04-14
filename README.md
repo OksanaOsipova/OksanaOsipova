@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p>
+<p div align="center" dir="auto">
 
   <a href="https://t.me/@Oxanalexan" target="blank"><img div align="center" dir="auto" src="https://raw.githubusercontent.com/OksanaOsipova/OksanaOsipova/main/social/telegram.png" alt="Oxanalexan" height="30" width="35" /></a>
   <a href="mailto:alexandrovnaox@gmail.com" target="blank"><img div align="center" dir="auto" src="https://raw.githubusercontent.com/OksanaOsipova/OksanaOsipova/main/social/gmail.png" alt="alexandrovnaox@gmail.com" height="30" width="30" /></a>
