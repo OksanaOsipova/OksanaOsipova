@@ -1,14 +1,10 @@
-
 <img height="400" src="https://raw.githubusercontent.com/OksanaOsipova/OksanaOsipova/main/social/profile_header.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 
 <h1 align="center">Привет 👋, я Оксана</h1>
 <h3 align="center">Учусь создавать игры🎮🕹️</h3>
 
 <h3 align="left" class="heading-element" dir="auto">👩‍💻  Обо мне</h3>
-
 <p align="left" dir="auto">
-
 Игры – моя страсть, а создание собственной игры – мечта, которой я стремлюсь осуществить. В процессе работы с Unity я нашла в сборках сцен что-то медитативное, что помогает мне вдохновляться и добиваться лучших результатов.🔮
 
 Меня интересует затрагивание различных областей в разработке игр, от дизайна игрового мира и механики до оптимизации и тестирования.🕵🏻
@@ -20,9 +16,7 @@
 Кроме того, мемы занимают особое место в моем сердце и помогают поддерживать позитивное настроение даже в самые насыщенные дни.❤️
 </p>
 
-
 <p div align="center" dir="auto">
-
   <a href="https://t.me/@Oxanalexan" target="blank"><img div align="center" dir="auto" src="https://raw.githubusercontent.com/OksanaOsipova/OksanaOsipova/main/social/telegram.png" alt="Oxanalexan" height="30" width="35" /></a>
   <a href="mailto:alexandrovnaox@gmail.com" target="blank"><img div align="center" dir="auto" src="https://raw.githubusercontent.com/OksanaOsipova/OksanaOsipova/main/social/gmail.png" alt="alexandrovnaox@gmail.com" height="30" width="30" /></a>
   <a href="https://discord.gg/.allexx" target="blank"><img div align="center" dir="auto" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".allexx" height="40" width="40" /></a>
